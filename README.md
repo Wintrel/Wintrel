@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="2660" height="1126" alt="BLOOM" src="https://github.com/user-attachments/assets/3c772ec1-f421-4f87-b051-a81115dd1590" />
+  <img width="3440" height="1456" alt="winterbloom" src="https://github.com/user-attachments/assets/b7959b69-1f47-4edb-8d8e-4e7370575840" />
 </p>
 
 
@@ -21,8 +21,9 @@
 ### `ACTIVE SIMULATION`
 
 <p align="center">
-  <img width="3440" height="1456" alt="petsla" src="https://github.com/user-attachments/assets/58c64108-6839-4c50-8861-067ae7eff7a8" />
+  <img width="3440" height="1456" alt="Blooms" src="https://github.com/user-attachments/assets/430e81d3-e371-4b40-96f9-a1238b88805b" />
 </p>
+
 
 
 > **BLOOM** is a fast-paced, movement-based survival game where you're trapped in a broken simulation. Use advanced parkour skills like wall-running, bhopping, sliding, and climbing to escape from Nextbots and uncover hidden secrets.
