@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">WinterBloom Studios</h1>
+<h1 align="center">WinterBloom</h1>
 
 <p align="center">
   <em>"FORMED TO SHOW WHAT 'ROBLOX' IS CAPABLE OF. Push Boundaries. Tell Stories. Build Worlds That Mean Something."</em>
