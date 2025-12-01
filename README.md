@@ -21,7 +21,7 @@
 ### `ACTIVE SIMULATION`
 
 <p align="center">
-  <img width="3440" height="1456" alt="Blooms" src="https://github.com/user-attachments/assets/430e81d3-e371-4b40-96f9-a1238b88805b" />
+  <img width="3440" height="1456" alt="Bloomsa" src="https://github.com/user-attachments/assets/af491b37-dc70-4e18-a0d8-0092083029d6" />
 </p>
 
 
