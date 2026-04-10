@@ -41,15 +41,12 @@
 ### `SYSTEM LINKS`
 
 <p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
   &nbsp;
   <a href="https://www.roblox.com/groups/1106963777">
     <img src="https://img.shields.io/badge/Roblox_Group-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Group"/>
   </a>
   &nbsp;
-  <a href="https://x.com/WinBloomStudio">
+  <a href="https://x.com/WINTERBLOOMDEV">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
