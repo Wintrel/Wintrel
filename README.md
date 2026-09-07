@@ -1,54 +1,52 @@
 <p align="center">
-  <img width="3440" height="1456" alt="winterbloom" src="https://github.com/user-attachments/assets/b7959b69-1f47-4edb-8d8e-4e7370575840" />
+  <img width="3440" height="1440" alt="winteroutside" src="https://github.com/user-attachments/assets/69050242-e345-4d5f-a9fb-73cfb85f5066" />
 </p>
 
-
-
-<h1 align="center">WINTERBLOOM</h1>
+<h1 align="center">WINTREL</h1>
 
 <p align="center">
-  <em>"Formed to show what 'ROBLOX' is capable of. Push Boundaries. Tell Stories. Build Worlds That Mean Something."</em>
+  <i>Building things through winter.</i>
 </p>
 
 ---
 
 ### `CURRENT DIRECTIVE`
 
-> Architecting the core systems of the BLOOM simulation. My focus is on building a stable, scalable, and professional foundation for a world that will grow with its community.
+> Building systems, experiences, and tools with a focus on engineering, design, and experimentation.
+>
+> I like making things that feel purposeful — whether that's a game, a piece of software, an interface, or something that probably didn't need to be this complicated.
 
 <br>
 
-### `ACTIVE SIMULATION`
+### `CURRENT PROJECT`
 
 <p align="center">
-  <img width="3440" height="1456" alt="Bloomsa" src="https://github.com/user-attachments/assets/af491b37-dc70-4e18-a0d8-0092083029d6" />
+  <img width="3440" height="1435" alt="aosbloom" src="https://github.com/user-attachments/assets/fe7d8f1a-245c-47f3-9bef-d449631c02ef" />
 </p>
 
-
-
-> **BLOOM** is a fast-paced, movement-based survival game where you're trapped in a broken simulation. Use advanced parkour skills like wall-running, bhopping, sliding, and climbing to escape from Nextbots and uncover hidden secrets.
-
-<br>
-
-### `CORE PHILOSOPHY`
-
-* **Design:** Build worlds that mean something.
-* **Engineering:** Push the boundaries of what's possible.
-* **Art:** Tell stories through every pixel and polygon.
-
-<br>
-
-### `SYSTEM LINKS`
-
-<p align="center">
-  &nbsp;
-  <a href="https://www.roblox.com/groups/1106963777">
-    <img src="https://img.shields.io/badge/Roblox_Group-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Group"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/WINTERBLOOMDEV">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
+> **AOS:BLOOM** is a fast-paced, movement-based survival game built around expressive movement, parkour, and a world hiding beneath a broken simulation.
+>
+> Currently rebuilding its foundations through **Prism Engine 4** — a ground-up movement and systems architecture designed to give BLOOM room to grow.
 
 ---
+
+### `WINTERBLOOM STUDIOS`
+
+> A small independent studio focused on building games and experiences that push the boundaries of what Roblox can be.
+>
+> **Push Boundaries. Tell Stories. Build Worlds That Mean Something.**
+
+<br>
+
+### `OTHER WORK`
+
+- **Prism Engine** — Movement and gameplay systems powering AOS:BLOOM.
+- **Reflection** — A Linux desktop shell built around customization, interaction, and experimentation.
+- **Lucent** — My ongoing exploration of Linux desktop design and tooling.
+- **Various experiments** — Because apparently one project at a time was never enough.
+
+---
+
+<p align="center">
+  <i>Winter has always felt like home.</i>
+</p>
