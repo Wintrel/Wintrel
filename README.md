@@ -42,7 +42,7 @@
 
 - **Prism Engine** — Movement and gameplay systems powering AOS:BLOOM.
 - **Reflection** — A Linux desktop shell built around customization, interaction, and experimentation.
-- **Lucent** — My ongoing exploration of Linux desktop design and tooling.
+- **Borealis** — My ongoing exploration of Linux desktop design and tooling.
 - **Various experiments** — Because apparently one project at a time was never enough.
 
 ---
