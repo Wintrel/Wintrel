@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="3440" height="1440" alt="winteroutside" src="https://github.com/user-attachments/assets/69050242-e345-4d5f-a9fb-73cfb85f5066" />
+  <img width="800" height="450" alt="winterbloom" src="https://github.com/user-attachments/assets/a7dfae80-e93f-465d-a209-b7bb3dabcfc4" />
 </p>
 
 <h1 align="center">WINTREL</h1>
